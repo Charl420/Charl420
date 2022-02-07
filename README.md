@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charl420
+- 👋 Hi, I’m @Linux-Gamer
 - 👀 I’m interested in Pixel Art, Gaming and Programming.
 - 📫 How to reach me <a href="https://discord.gg/b7wYtUHzdX"> Discord </a> or <a href="https://www.twitch.tv/the_linuxgamer"> My twitch channel </a>
 
