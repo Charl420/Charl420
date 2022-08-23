@@ -13,6 +13,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 I have many projects in my repos, but the ones that I want to highlight are the following:
 
 
+
 ## 📫 Contact me
 Email - [HERE](mailto:charl.cj.monke@gmail.com)
 
