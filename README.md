@@ -18,9 +18,18 @@ I have many projects in my repos, but the ones that I want to highlight are the 
 Email - [HERE](mailto:charl.cj.monke@gmail.com)
 
 My Discord Server - [HERE](https://discord.gg/s58s2b9Xpr)
-
+| Place | Link for contact | How often I check there |
+| :--- | :--- | :--- |
+| Discord Server | [HERE](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day. |
+| Email | [HERE](mailto:charl.cj.monke@gmail.com) | I check my emails about once a day, sometimes more |
 
 
 
 ## My Organisations
 I am the founder of 3 organisations here on Github (although 1 is inactive).
+
+   | Organisation Name | Active (Yes or No) | Link |
+   | :--- | :--- | :--- |
+   | Artsly | Yes | https://github.com/Artsly |
+   | Linux Flights | Yes | https://github.com/Linux-Flights |
+   | Pynotes | No | https://github.com/Pynotesteam |
