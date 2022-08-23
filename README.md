@@ -15,8 +15,11 @@ I have many projects in my repos, but the ones that I want to highlight are the 
 
 ## 📫 Contact me
 Email - [HERE](mailto:charl.cj.monke@gmail.com)
+
 My Discord Server - [HERE](https://discord.gg/s58s2b9Xpr)
 
 
+
+
 ## My Organisations
-I am the founder of 2 organisations here on Github.
+I am the founder of 3 organisations here on Github (although 1 is inactive).
