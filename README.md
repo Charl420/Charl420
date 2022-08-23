@@ -1,3 +1,7 @@
+|  |  |  |
+| :---: | :---: | :---: |
+|  | <img src="Blob(logo)2.png"></img> |  |
+
 # LinuxGamer
 ## About Me
 Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, and YouTuber. I am good with Python, HTML, Markdown, and Bash languages (badge thingys to be added soon) and am learning C++.
