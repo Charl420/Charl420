@@ -33,3 +33,13 @@ I am the founder of 3 organisations here on Github (although 1 is inactive).
    | Artsly | Yes | https://github.com/Artsly |
    | Linux Flights | Yes | https://github.com/Linux-Flights |
    | Pynotes | No | https://github.com/Pynotesteam |
+
+
+List of all my projects (Active and Non Active):
+- Artsly
+- Pynotes
+- LinuxFlights
+- linuxgamer.github.io
+- Libresprite
+- Libresprite Dotto
+- 
