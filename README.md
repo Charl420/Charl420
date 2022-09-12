@@ -1,14 +1,11 @@
-<img src="Blob(logo)2.png"></img>
-
-# LinuxGamer
 ## About Me
 Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, and YouTuber. I am good with Python, HTML, Markdown, and Bash languages (badge thingys to be added soon) and am learning C++.
 
 ## 📫 Contact me
 | Place | Link for contact | How often I check there |
 | :--- | :--- | :--- |
-| Discord Server | [HERE](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day. |
-| Email | [HERE](mailto:charl.cj.monke@gmail.com) | I check my emails about once a day, sometimes more |
+| [Discord Server](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day. |
+| [Email](mailto:charl.cj.monke@gmail.com) | I check my emails about once a day, sometimes more |
 
 <details>
 <summary>My Best Projects</summary>
