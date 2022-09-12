@@ -1,14 +1,14 @@
-## About Me
+## 📖 About Me
 Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, and YouTuber. I am good with Python, HTML, Markdown, and Bash languages (badge thingys to be added soon) and am learning C++.
 
-## 📫 Contact me
-| Place | How often I check there |
+## 💬 Contact me
+| Where | How often I check there |
 | :--- | :--- |
 | [Discord Server](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day. |
 | [Email](mailto:charl.cj.monke@gmail.com) | I check my emails about once a day, sometimes more |
 
 <details>
-<summary>My Best Projects</summary>
+<summary>📁 My Best Projects</summary>
 <br>
    I have many projects in my repos, but the ones that I want to highlight are the following:   
    
@@ -21,7 +21,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 </details>
 
 <details>
-<summary>My Organisations</summary>
+<summary>📁 My Organisations</summary>
 <br>
    I am the founder of 3 organisations here on Github (although 1 is inactive).
    
@@ -33,7 +33,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 </details>
 
 <details>
-<summary>All My Projects</summary>
+<summary>📁 All My Projects</summary>
 <br>
    List of all my projects (Active and Non Active):
    
