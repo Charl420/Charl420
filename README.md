@@ -25,11 +25,11 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 <br>
    I am the founder of 3 organisations here on Github (although 1 is inactive).
    
-   | Organisation Name | Active (Yes or No) | Link |
-   | :--- | :--- | :--- |
-   | Artsly | Yes | https://github.com/Artsly |
-   | Linux Flights | Yes | https://github.com/Linux-Flights |
-   | Pynotes | No | https://github.com/Pynotesteam |
+   | Organisation Name | Active (Yes or No) |
+   | :--- | :--- |
+   | [Artsly](https://github.com/Artsly) | Yes |
+   | [Linux Flights](https://github/Linux-Flights) | Yes |
+   | [Pynotes](https://github.com/Pynotesteam) | No |
 </details>
 
 <details>
@@ -37,12 +37,13 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 <br>
    List of all my projects (Active and Non Active):
    
-   | Repo Name | Link |
-   | :--- | :--- | 
-   | Artsly | [HERE](https://github.com/Artsly/Artsly)
-   | Pynotes | [HERE](https://github.com/pynotesteam/pynotes)
-   | LinuxFlights - Hawk T2 | [HERE](https://github.com/LinuxFlights/HawkT2)
-   | LinuxGamer Website | [HERE](https://github.com/LinuxGamer/linuxgamer.github.io)
-   | Libresprite Legacy | [HERE](https://github.com/LibreSprite/LibreSprite)
-   | Libresprite Dotto | [HERE](https://github.com/LibreSprite/Dotto)
+   | Repo Name |
+   | :--- |
+   | [Artsly](https://github.com/Artsly/Artsly) |
+   | [Pynotes](https://github.com/pynotesteam/pynotes) |
+   | [LinuxFlights - Hawk T2](https://github.com/LinuxFlights/HawkT2) |
+   | [LinuxFlights - DHC1](https://github.com/LinuxFlights/DHC1) |
+   | [LinuxGamer Website](https://github.com/LinuxGamer/linuxgamer.github.io) |
+   | [Libresprite Legacy](https://github.com/LibreSprite/LibreSprite) |
+   | [Libresprite Dotto](https://github.com/LibreSprite/Dotto) |
 </details>
