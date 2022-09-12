@@ -14,7 +14,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
    
    | Project Name | Languages | Active | My Last Commit To Project |
    | :--- | :--- | :--- | :--- |
-   | [Pynotes](Pynotesteam) | Python | No | 30 March 2022 |
+   | [Pynotes](https://github.com/Pynotesteam) | Python | No | 30 March 2022 |
    | [Libresprite](https://github.com/Libresprite/Libresprite) | C++ | Yes | 7 February 2022 |
    | [Libresprite Dotto](https://github.com/Libresprite/Dotto) | C++ | Yes | My commit was implemented by FManga as I didn't know how to do it properly at the time. |
    | [Artsly](https://github.com/Artsly/Artsly) | Python | Yes | 12 August 2022 |
