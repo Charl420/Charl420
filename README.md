@@ -47,3 +47,17 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
    | [Libresprite Legacy](https://github.com/LibreSprite/LibreSprite) |
    | [Libresprite Dotto](https://github.com/LibreSprite/Dotto) |
 </details>
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=LinuxGamer&show_icons=true&theme=tokyonight" 
+/>
+
+
+    
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#26](https://github.com/jamesgeorge007/csstox/pull/26) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+2. 🎉 Merged PR [#25](https://github.com/jamesgeorge007/csstox/pull/25) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/csstox/pull/27) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/csstox/pull/28) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/csstox/pull/29) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+<!--END_SECTION:activity-->
