@@ -55,4 +55,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#18](https://github.com/ykdojo/active-repos-for-contributing/issues/18) in [ykdojo/active-repos-for-contributing](https://github.com/ykdojo/active-repos-for-contributing)
+2. 💪 Opened PR [#18](https://github.com/ykdojo/active-repos-for-contributing/pull/18) in [ykdojo/active-repos-for-contributing](https://github.com/ykdojo/active-repos-for-contributing)
+3. ❗️ Opened issue [#4](https://github.com/LinuxGamer/Universe/issues/4) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+4. ❗️ Closed issue [#3](https://github.com/LinuxGamer/Universe/issues/3) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+5. 🗣 Commented on [#17](https://github.com/LibreSprite/Dotto/issues/17) in [LibreSprite/Dotto](https://github.com/LibreSprite/Dotto)
 <!--END_SECTION:activity-->
