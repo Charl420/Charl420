@@ -55,9 +55,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/jamesgeorge007/csstox/pull/26) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 🎉 Merged PR [#25](https://github.com/jamesgeorge007/csstox/pull/25) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/csstox/pull/27) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/csstox/pull/28) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-5. 🎉 Merged PR [#29](https://github.com/jamesgeorge007/csstox/pull/29) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
