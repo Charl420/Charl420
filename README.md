@@ -55,9 +55,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ChrisTitusTech/Fedora-Titus/issues/8) in [ChrisTitusTech/Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus)
-2. ❗️ Closed issue [#54](https://github.com/IdreesInc/Monocraft/issues/54) in [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
-3. 🗣 Commented on [#54](https://github.com/IdreesInc/Monocraft/issues/54) in [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
-4. ❗️ Opened issue [#5](https://github.com/LinuxGamer/Universe/issues/5) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-5. ❗️ Opened issue [#54](https://github.com/IdreesInc/Monocraft/issues/54) in [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
+1. ❗️ Opened issue [#14](https://github.com/ChrisTitusTech/Fedora-Titus/issues/14) in [ChrisTitusTech/Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus)
+2. ❗️ Closed issue [#2](https://github.com/ChrisTitusTech/Fedora-Titus/issues/2) in [ChrisTitusTech/Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus)
+3. 🗣 Commented on [#8](https://github.com/ChrisTitusTech/Fedora-Titus/issues/8) in [ChrisTitusTech/Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus)
+4. ❗️ Closed issue [#54](https://github.com/IdreesInc/Monocraft/issues/54) in [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
+5. 🗣 Commented on [#54](https://github.com/IdreesInc/Monocraft/issues/54) in [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)
 <!--END_SECTION:activity-->
