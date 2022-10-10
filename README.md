@@ -23,7 +23,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 <details>
 <summary>📁 My Organisations</summary>
 <br>
-   I am the founder of 3 organisations here on Github (although 1 is inactive).
+   I am members of a few organisations. Here is a list.
    
    | Organisation Name | Active (Yes or No) |
    | :--- | :--- |
