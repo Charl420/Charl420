@@ -30,6 +30,7 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
    | [Artsly](https://github.com/Artsly) | Yes |
    | [Linux Flights](https://github/Linux-Flights) | Yes |
    | [Pynotes](https://github.com/Pynotesteam) | No |
+   | [EddieHub](https://github.com/EddieHubCommunity) | Yes |
 </details>
 
 <details>
