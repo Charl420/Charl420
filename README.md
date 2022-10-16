@@ -56,9 +56,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-2. 🗣 Commented on [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+1. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Closed issue [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
 3. 🗣 Commented on [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-4. ❗️ Opened issue [#5704](https://github.com/EddieHubCommunity/support/issues/5704) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#53](https://github.com/ChrisTitusTech/website/issues/53) in [ChrisTitusTech/website](https://github.com/ChrisTitusTech/website)
+4. 🗣 Commented on [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+5. ❗️ Opened issue [#5704](https://github.com/EddieHubCommunity/support/issues/5704) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
