@@ -56,9 +56,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/Artsly/Artsly/issues/14) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-2. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#14](https://github.com/Artsly/Artsly/issues/14) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
 3. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 4. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Closed issue [#13](https://github.com/Artsly/Artsly/issues/13) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+5. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
