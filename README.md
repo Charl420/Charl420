@@ -56,9 +56,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Artsly/Artsly/pull/16) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-2. ❗️ Closed issue [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-3. 🗣 Commented on [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-4. 🗣 Commented on [#2001](https://github.com/EddieHubCommunity/LinkFree/issues/2001) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#1980](https://github.com/EddieHubCommunity/LinkFree/issues/1980) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#6](https://github.com/Vanilla-OS/website/issues/6) in [Vanilla-OS/website](https://github.com/Vanilla-OS/website)
+2. 🎉 Merged PR [#16](https://github.com/Artsly/Artsly/pull/16) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+3. ❗️ Closed issue [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+4. 🗣 Commented on [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+5. 🗣 Commented on [#2001](https://github.com/EddieHubCommunity/LinkFree/issues/2001) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
