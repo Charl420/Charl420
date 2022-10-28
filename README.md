@@ -56,9 +56,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Vanilla-OS/website/issues/6) in [Vanilla-OS/website](https://github.com/Vanilla-OS/website)
-2. 🎉 Merged PR [#16](https://github.com/Artsly/Artsly/pull/16) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-3. ❗️ Closed issue [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-4. 🗣 Commented on [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
-5. 🗣 Commented on [#2001](https://github.com/EddieHubCommunity/LinkFree/issues/2001) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 💪 Opened PR [#7](https://github.com/LinuxGamer/Universe/pull/7) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+2. 🗣 Commented on [#6](https://github.com/LinuxGamer/Universe/issues/6) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+3. ❗️ Opened issue [#6](https://github.com/Vanilla-OS/website/issues/6) in [Vanilla-OS/website](https://github.com/Vanilla-OS/website)
+4. 🎉 Merged PR [#16](https://github.com/Artsly/Artsly/pull/16) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
+5. ❗️ Closed issue [#15](https://github.com/Artsly/Artsly/issues/15) in [Artsly/Artsly](https://github.com/Artsly/Artsly)
 <!--END_SECTION:activity-->
