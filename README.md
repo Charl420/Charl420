@@ -56,9 +56,9 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/LinuxGamer/Universe/pull/11) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-2. 💪 Opened PR [#11](https://github.com/LinuxGamer/Universe/pull/11) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-3. 🎉 Merged PR [#10](https://github.com/LinuxGamer/Universe/pull/10) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-4. ❗️ Opened issue [#9](https://github.com/LinuxGamer/Universe/issues/9) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-5. 🎉 Merged PR [#7](https://github.com/LinuxGamer/Universe/pull/7) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+1. 🎉 Merged PR [#12](https://github.com/LinuxGamer/Universe/pull/12) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+2. 🎉 Merged PR [#11](https://github.com/LinuxGamer/Universe/pull/11) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+3. 💪 Opened PR [#11](https://github.com/LinuxGamer/Universe/pull/11) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+4. 🎉 Merged PR [#10](https://github.com/LinuxGamer/Universe/pull/10) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
+5. ❗️ Opened issue [#9](https://github.com/LinuxGamer/Universe/issues/9) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
 <!--END_SECTION:activity-->
