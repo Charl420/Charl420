@@ -52,13 +52,3 @@ Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, a
 <img 
    src="https://github-readme-stats.vercel.app/api?username=LinuxGamer&show_icons=true&theme=tokyonight" 
 />
-
-
-    
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2070](https://github.com/EddieHubCommunity/LinkFree/issues/2070) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#5](https://github.com/LinuxGamer/Universe/issues/5) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-3. 🎉 Merged PR [#15](https://github.com/LinuxGamer/Universe/pull/15) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-4. 💪 Opened PR [#15](https://github.com/LinuxGamer/Universe/pull/15) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-5. 🎉 Merged PR [#13](https://github.com/LinuxGamer/Universe/pull/13) in [LinuxGamer/Universe](https://github.com/LinuxGamer/Universe)
-<!--END_SECTION:activity-->
