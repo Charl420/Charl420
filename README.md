@@ -3,18 +3,10 @@
 Hi all, I'm CJ, known online as LinuxGamer. I am a amateur programmer, artist, and YouTuber. I am good with Python, HTML, Markdown, Bash, and JavaScript as well as C++ at times.
 
 ## 💬 Contact me
-<<<<<<< Updated upstream
-| Where | How often I check there |
-| :--- | :--- |
-| [Discord Server](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day. |
-| [Email](mailto:charl.cj.monke@gmail.com) | I check my emails frequently throughout the day, however I may be slower to respond to emails than other methods. |
-=======
-
 | Where                                           | How often I check there                            |
 |:----------------------------------------------- |:-------------------------------------------------- |
 | [Discord Server](https://discord.gg/s58s2b9Xpr) | I check my Discord a lot throughout the day.       |
 | [Email](mailto:charl.cj.monke@gmail.com)        | I check my emails about once a day, sometimes more |
->>>>>>> Stashed changes
 
 <details>
 <summary>📁 My Best Projects</summary>
