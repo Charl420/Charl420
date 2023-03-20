@@ -7,8 +7,8 @@ I'm known online as Linux Gamer. I'm a Digital/Pixel Artist, and software develo
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [My Website](http://linuxgamer.github.io)
 * ✉️  You can contact me at [charl.cj.monke@gmail.com](mailto:charl.cj.monke@gmail.com)
-* 🚀  I'm currently working on [App-Launcher](http://github.com/LinuxGamer/App-Launcher)
-* 🧠  I'm learning JavaScript, Python PySide6, and Rust.
+* 🚀  I'm currently working on [Hawker Hunter for Flightgear](http://github.com/Linux-Flights/hawker-hunter)
+* 🧠  I'm learning Python and PySide6.
 * 🤝  I'm open to collaborating on Open source projects that I would have a need for.
 
 <a href="https://www.github.com/LinuxGamer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/LinuxGamer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/The_LinuxGamer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/The_LinuxGamer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/the_linuxgamer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/the_linuxgamer?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
